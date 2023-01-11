@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import ProductCard from '../../elements/ProductCard/ProductCard';
 import foto1 from '../../assets/undw1.jpeg';
 import foto2 from '../../assets/undrw2.jpeg';

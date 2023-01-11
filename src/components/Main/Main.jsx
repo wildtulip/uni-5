@@ -9,7 +9,7 @@ const Main = () => {
     <div className='main_container'>
       <h2>Naked Extravaganza </h2>
       <div className='start_block'>
-        <img className='img_foto1' src={foto1} />
+        <img className='img_foto1' alt='main' src={foto1} />
         <div>
           <p className='text'>
             Це український бренд жіночої нижньої білизни, який стирає рамки між
