@@ -1,0 +1,27 @@
+.card_body {
+  padding: 12px;
+  background-color: lightpink;
+  border-radius: 4px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card_foto {
+  width: 200px;
+  height: 300px;
+  /* max-height: 50px; */
+}
+
+.info_block {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 16px;
+}
+
+.info_block p {
+  padding: 0;
+}

@@ -1,0 +1,22 @@
+.conctacts_block {
+  padding: 64px 32px 0;
+}
+
+.title_contact {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.contact {
+  font-size: 20px;
+  padding-bottom: 8px;
+}
+
+.contacts_main {
+  display: flex;
+  justify-content: space-around;
+}
+
+.map {
+  padding: 32px;
+}

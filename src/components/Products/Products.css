@@ -1,0 +1,36 @@
+.foto_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 32px 0;
+}
+
+.redirect_container {
+  padding: 32px;
+  display: flex;
+  align-items: center;
+}
+
+.kill_link {
+  text-decoration: none;
+  color: black;
+}
+
+.items_block {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  padding: 0 32px;
+}
+
+.main_container h2 {
+  padding: 32px;
+  font-size: 36px;
+}
+
+.prod_block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 16px;
+}

@@ -1,0 +1,48 @@
+.foto_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 32px 0;
+}
+
+.redirect_container {
+  padding: 32px;
+  display: flex;
+  align-items: center;
+}
+
+.kill_link {
+  text-decoration: none;
+  color: black;
+}
+
+.items_block {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  padding: 0 32px;
+}
+
+.text {
+  padding: 0 32px 32px;
+}
+
+.main_container h2 {
+  padding: 32px;
+  font-size: 40px;
+  text-align: center;
+}
+
+.img_foto1 {
+  width: 500px;
+}
+
+.start_block {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 40px;
+}
+
+.start_block div {
+  max-width: 40%;
+}

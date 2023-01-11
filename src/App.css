@@ -1,0 +1,35 @@
+.header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  padding: 32px;
+  border-bottom: 2px solid black;
+}
+
+.header img {
+  width: 150px;
+}
+
+.nav_bar {
+  display: flex;
+  gap: 16px;
+}
+
+.nav_link {
+  outline: none;
+  text-decoration: none;
+  color: black;
+  padding: 16px;
+}
+
+.nav_link:hover {
+  background-color: pink;
+  transition: 3s;
+}
+
+.footer h2 {
+  text-align: center;
+  font-size: 16px;
+  padding-bottom: 20px;
+}
